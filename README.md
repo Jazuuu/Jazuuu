@@ -18,5 +18,5 @@
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
-![Pac-Man contribution graph](https://raw.githubusercontent.com/Jazuuu/Jazuuu/output/pacman-contribution-graph.svg)
+![Pac-Man contribution graph](https://raw.githubusercontent.com/Jazuuu/Jazuuu/output/pacman-contribution-graph-dark.svg)
 
